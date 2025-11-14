@@ -6,7 +6,7 @@
       "destination": "/index.html"
     },
     {
-      "source": "/thanks",
+      "source": "/",
       "destination": "/thanks.html"
     }
   ]
